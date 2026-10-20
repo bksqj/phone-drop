@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 *.part
 1_ЗАПУСК.txt
+windows/*.exe
+build/
+dist/
+*.spec
